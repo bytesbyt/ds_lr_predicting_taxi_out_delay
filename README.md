@@ -9,6 +9,7 @@ This project predicts **taxi-out delay** for flights using Linear Regression mac
 - Model evaluation using R², MAE, MSE, RMSE
 
 ## 📂 Dataset
+- Data Source: [Kaggle - Flight Take-off Data JFK Airport](https://www.kaggle.com/datasets/deepankurk/flight-take-off-data-jfk-airport/data)
 - The dataset (`M1_final.csv`) contains flight-related data.
 - Features include weather conditions, airport congestion, and aircraft details.
 
@@ -22,3 +23,7 @@ This project predicts **taxi-out delay** for flights using Linear Regression mac
     pip install -r requirements.txt
 
 3. Run the jupyter notebook: ds_predicting_taxi_out_delay.ipynb
+
+## 📜 Presentation Slides
+
+- View the project presentation here: [Presentation Slides](https://docs.google.com/presentation/d/1nNLguQ7ajTlbaRPteDZWQ0d4mecFgrYbO4P6WTNfDbM/edit#slide=id.p)
